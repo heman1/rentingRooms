@@ -4,3 +4,5 @@ the files which are on the root folder are used directly to show on browser.
 the files inside the vendor folder are bootstrap and jQuery files.
 the includes folder contain all the includes done with php in the html files.
 the config folder is used to connect dtabase with php.
+the landing page of the website is index1.php.
+
