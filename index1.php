@@ -190,7 +190,7 @@ require 'includes/form_handlers/login_handler.php';
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
-              <img class="img-fluid rounded-circle" src="" alt="">
+              <img class="img-fluid rounded-circle" src="images/" alt="">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
