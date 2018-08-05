@@ -5,7 +5,7 @@ session_start();
  date_default_timezone_set("Asia/kolkata");
     $currenttime1=time();
    $datetime=strftime("%B-%d-%Y %H:%M:%S",$currenttime1);
-$con = mysqli_connect("localhost", "root", "", "roomfinder"); //Connection variable
+$con = mysqli_connect("xxxxxxx", "xxxxxx", "xxxxxx", "xxxxxxxr"); //Connection variable
 
 if(mysqli_connect_errno()) 
 {
